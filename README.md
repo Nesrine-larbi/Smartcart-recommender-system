@@ -1,4 +1,15 @@
 #  SmartCart AI Recommendation Engine
+## 👥 Team
+**Instructor:**  
+Dr. Reza Mirsalari  
+
+**Team Members:**  
+- Mehrad Mostaan (40248205)  
+- Nesrine Larbi (40079009)  
+- Mymanat Mohammed (40298076)  
+- Alessandro TingYi Lorigiano (40017756)  
+
+---
 
 ##  Overview
 SmartCart is a data-driven e-commerce recommendation system that suggests products to users based on their behavior and identifies purchasing patterns using machine learning techniques.
@@ -23,4 +34,4 @@ This project combines:
 - mlxtend (Apriori)
 
 ---
-  ## ▶️ How to Run
+  ## ▶️ How to Run 
