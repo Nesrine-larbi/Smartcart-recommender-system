@@ -25,6 +25,8 @@ SmartCart is a Python-based e-commerce recommendation system with three parts:
 pip install pandas numpy scikit-learn matplotlib seaborn mlxtend
 ```
 
+> **Note for Part 3 (Association Rule Mining):** `mlxtend` is required for the Apriori algorithm. If you skip installing it, Part 3 will fail with a `ModuleNotFoundError`. Run `pip install mlxtend` separately if needed.
+
 ---
 
 ## How to Run
