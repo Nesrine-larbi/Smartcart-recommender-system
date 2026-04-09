@@ -42,9 +42,9 @@ Run all cells top to bottom. `ecommerce_user_data.csv` and `product_details.csv`
 **Alternatively — run parts separately (Part 1 must go first):**
 
 ```bash
-jupyter notebook "part1_preprocessing (1).ipynb"
+jupyter notebook part1_preprocessing.ipynb
 jupyter notebook part2_collaborative_filtering.ipynb
-jupyter notebook "part3_association_rule_mining_apriori_final(1).ipynb"
+jupyter notebook part3_association_rule_mining_apriori.ipynb
 ```
 
 ---
@@ -52,12 +52,12 @@ jupyter notebook "part3_association_rule_mining_apriori_final(1).ipynb"
 ## File Structure
 
 ```
-├── ecommerce_user_data.csv                          # Input: user–product ratings
-├── product_details.csv                              # Input: product metadata
-├── smartcart_complete.ipynb                         # Main notebook (all 3 parts)
-├── part1_preprocessing (1).ipynb                   # Part 1 standalone
-├── part2_collaborative_filtering.ipynb             # Part 2 standalone
-├── part3_association_rule_mining_apriori_final(1).ipynb  # Part 3 standalone
+├── ecommerce_user_data.csv                    # Input: user–product ratings
+├── product_details.csv                        # Input: product metadata
+├── smartcart_complete.ipynb                   # Main notebook (all 3 parts)
+├── part1_preprocessing.ipynb                  # Part 1 standalone
+├── part2_collaborative_filtering.ipynb        # Part 2 standalone
+├── part3_association_rule_mining_apriori.ipynb # Part 3 standalone
 └── README.md
 ```
 
