@@ -1,0 +1,110 @@
+support,itemset_length,itemset_names
+0.34,1,Beauty Item 70
+0.26,1,Home Item 51
+0.26,1,Clothing Item 89
+0.24,1,Books Item 43
+0.24,1,Clothing Item 88
+0.22,1,Clothing Item 4
+0.22,1,Books Item 30
+0.22,1,Clothing Item 44
+0.22,1,Toys Item 65
+0.22,1,Home Item 77
+0.2,1,Books Item 6
+0.2,1,Toys Item 49
+0.2,1,Home Item 54
+0.2,1,Electronics Item 64
+0.2,1,Home Item 79
+0.18,1,Clothing Item 1
+0.18,1,Books Item 2
+0.18,1,Books Item 8
+0.18,1,Books Item 11
+0.18,1,Electronics Item 21
+0.18,1,Beauty Item 50
+0.18,1,Home Item 52
+0.18,1,Toys Item 60
+0.18,1,Home Item 66
+0.18,1,Beauty Item 71
+0.18,1,Electronics Item 93
+0.16,1,Clothing Item 3
+0.16,1,Home Item 5
+0.16,1,Clothing Item 9
+0.16,1,Toys Item 15
+0.16,1,Home Item 23
+0.16,1,Toys Item 33
+0.16,1,Beauty Item 36
+0.16,1,Beauty Item 63
+0.16,1,Toys Item 78
+0.16,1,Toys Item 94
+0.16,1,Clothing Item 99
+0.14,2,"Books Item 43, Clothing Item 89"
+0.14,2,"Home Item 51, Beauty Item 70"
+0.14,1,Books Item 7
+0.14,1,Clothing Item 13
+0.14,1,Home Item 14
+0.14,1,Beauty Item 16
+0.14,1,Clothing Item 20
+0.14,1,Toys Item 22
+0.14,1,Beauty Item 24
+0.14,1,Toys Item 26
+0.14,1,Electronics Item 28
+0.14,1,Books Item 29
+0.14,1,Beauty Item 34
+0.14,1,Toys Item 39
+0.14,1,Home Item 46
+0.14,1,Electronics Item 53
+0.14,1,Clothing Item 55
+0.14,1,Home Item 56
+0.14,1,Toys Item 73
+0.14,1,Home Item 76
+0.14,1,Beauty Item 87
+0.14,1,Clothing Item 91
+0.14,1,Clothing Item 97
+0.14,1,Electronics Item 98
+0.12,1,Toys Item 0
+0.12,1,Toys Item 10
+0.12,1,Beauty Item 12
+0.12,1,Home Item 18
+0.12,1,Toys Item 19
+0.12,1,Home Item 31
+0.12,1,Books Item 37
+0.12,1,Toys Item 38
+0.12,1,Electronics Item 40
+0.12,1,Electronics Item 48
+0.12,1,Toys Item 59
+0.12,1,Beauty Item 69
+0.12,1,Home Item 72
+0.12,1,Clothing Item 75
+0.12,1,Beauty Item 81
+0.12,1,Toys Item 82
+0.12,1,Beauty Item 83
+0.12,1,Electronics Item 86
+0.12,1,Toys Item 95
+0.1,2,"Clothing Item 3, Beauty Item 70"
+0.1,2,"Clothing Item 4, Books Item 11"
+0.1,2,"Clothing Item 4, Beauty Item 70"
+0.1,2,"Books Item 11, Home Item 77"
+0.1,2,"Clothing Item 13, Home Item 79"
+0.1,2,"Toys Item 15, Toys Item 39"
+0.1,2,"Toys Item 15, Beauty Item 70"
+0.1,2,"Beauty Item 24, Beauty Item 70"
+0.1,2,"Toys Item 33, Beauty Item 70"
+0.1,2,"Clothing Item 42, Beauty Item 70"
+0.1,2,"Clothing Item 44, Home Item 79"
+0.1,2,"Toys Item 49, Beauty Item 70"
+0.1,2,"Electronics Item 64, Home Item 79"
+0.1,2,"Toys Item 65, Home Item 76"
+0.1,2,"Toys Item 65, Clothing Item 89"
+0.1,2,"Beauty Item 70, Home Item 77"
+0.1,1,Beauty Item 17
+0.1,1,Clothing Item 25
+0.1,1,Toys Item 32
+0.1,1,Books Item 41
+0.1,1,Clothing Item 42
+0.1,1,Electronics Item 45
+0.1,1,Toys Item 47
+0.1,1,Books Item 62
+0.1,1,Home Item 68
+0.1,1,Home Item 80
+0.1,1,Beauty Item 84
+0.1,1,Toys Item 85
+0.1,1,Home Item 90
